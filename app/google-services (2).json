@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225856578495",
+    "firebase_url": "https://iwimapp-66e5f-default-rtdb.firebaseio.com",
+    "project_id": "iwimapp-66e5f",
+    "storage_bucket": "iwimapp-66e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225856578495:android:51815142a3575c8a93f70a",
+        "android_client_info": {
+          "package_name": "com.example.atelier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225856578495-qtqfobtqvi96sk0mstukg1fm4vti89tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Q4CvrCpQH37fWc7cY5Nfkjiwdd77JJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225856578495-qtqfobtqvi96sk0mstukg1fm4vti89tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
